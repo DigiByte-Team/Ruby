@@ -205,4 +205,5 @@ If you are curious or like to participate in development, drop by \#bitcoin-ruby
 
 == License
 
+
 Available here: [link:COPYING]
